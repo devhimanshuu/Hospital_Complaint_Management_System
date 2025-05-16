@@ -1,0 +1,606 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Aarav Mehta",
+      "email": "aarav.mehta94@gmail.com",
+      "password": "aarav@123",
+      "phone": "9876543210",
+      "userType": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Isha Rane",
+      "email": "isha.rane21@yahoo.com",
+      "phone": "9993999147",
+      "password": "isha@123",
+      "userType": "user"
+    },
+    {
+      "id": "3",
+      "name": "Manav Kapoor",
+      "email": "manav.kapoor92@gmail.com",
+      "password": "manav#123",
+      "phone": "9321786543",
+      "userType": "admin"
+    },
+    {
+      "id": "4",
+      "name": "Ritika Chauhan",
+      "email": "ritika.chauhan88@outlook.com",
+      "password": "ritika88",
+      "phone": "9401123489",
+      "userType": "user"
+    },
+    {
+      "id": "5",
+      "name": "Sahil Deshmukh",
+      "email": "sahil.deshmukh01@gmail.com",
+      "password": "sahil@pass",
+      "phone": "9888990011",
+      "userType": "user"
+    },
+    {
+      "name": "Tanya Varma",
+      "email": "tanya.varma7@gmail.com",
+      "phone": "9123456702",
+      "password": "tanya123",
+      "userType": "user",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "name": "Nikhil Bansal",
+      "email": "nikhil.bansal89@yahoo.com",
+      "password": "nikhil!2024",
+      "phone": "9988771122",
+      "userType": "user"
+    },
+    {
+      "id": "8",
+      "name": "Meera Pillai",
+      "email": "meera.pillai@rediffmail.com",
+      "password": "meera321",
+      "phone": "9090901234",
+      "userType": "admin"
+    },
+    {
+      "id": "9",
+      "name": "Ayaan Qureshi",
+      "email": "ayaan.q@gmail.com",
+      "password": "ayaan@qur",
+      "phone": "9877612340",
+      "userType": "user"
+    },
+    {
+      "id": "10",
+      "name": "Kavya Joshi",
+      "email": "kavya.joshi55@gmail.com",
+      "password": "kavya@55",
+      "phone": "9234567890",
+      "userType": "user"
+    },
+    {
+      "id": "11",
+      "name": "Rohan Shetty",
+      "email": "rohan.shetty@live.com",
+      "password": "rohan!shetty",
+      "phone": "9133445566",
+      "userType": "user"
+    },
+    {
+      "id": "12",
+      "name": "Divya Sinha",
+      "email": "divya.sinha99@gmail.com",
+      "password": "divya_s99",
+      "phone": "9001122345",
+      "userType": "admin"
+    },
+    {
+      "id": "13",
+      "name": "Abhinav Reddy",
+      "email": "abhinav.r@gmail.com",
+      "password": "abhinavR#",
+      "phone": "9091234567",
+      "userType": "user"
+    },
+    {
+      "id": "14",
+      "name": "Pooja Mishra",
+      "email": "pooja.mishra08@gmail.com",
+      "password": "pooja@08",
+      "phone": "9345617820",
+      "userType": "user"
+    },
+    {
+      "id": "15",
+      "name": "Harshit Jain",
+      "email": "harshit.jain91@yahoo.com",
+      "password": "harshit91",
+      "phone": "9223344556",
+      "userType": "user"
+    },
+    {
+      "id": "16",
+      "name": "Neelam Thakur",
+      "email": "neelam.t@gmail.com",
+      "password": "neelam#pass",
+      "phone": "9356781230",
+      "userType": "user"
+    },
+    {
+      "id": "17",
+      "name": "Sameer Khan",
+      "email": "sameer.khan@gmail.com",
+      "password": "skhan2025",
+      "phone": "9367891245",
+      "userType": "user"
+    },
+    {
+      "id": "18",
+      "name": "Ankita Ghosh",
+      "email": "ankita.ghosh@mail.com",
+      "password": "ankita@gh",
+      "phone": "9378905678",
+      "userType": "user"
+    },
+    {
+      "id": "19",
+      "name": "Yuvraj Solanki",
+      "email": "yuvraj.solanki@gmail.com",
+      "password": "yuvraj#s",
+      "phone": "9389012345",
+      "userType": "user"
+    },
+    {
+      "id": "20",
+      "name": "Himanshu Gupta",
+      "email": "devhimanshuu@gmail.com",
+      "password": "Himanshu@123",
+      "phone": "9589383089",
+      "userType": "admin"
+    }
+  ],
+  "departments": [
+    {
+      "id": "d101",
+      "name": "Emergency Room",
+      "contact": "1800100100"
+    },
+    {
+      "id": "d102",
+      "name": "Cardiology",
+      "contact": "1800100200"
+    },
+    {
+      "id": "d103",
+      "name": "Radiology",
+      "contact": "1800100300"
+    },
+    {
+      "id": "d104",
+      "name": "Laboratory Services",
+      "contact": "1800100400"
+    },
+    {
+      "id": "d105",
+      "name": "Pediatrics",
+      "contact": "1800100500"
+    },
+    {
+      "id": "d106",
+      "name": "Orthopedics",
+      "contact": "1800100600"
+    },
+    {
+      "id": "d107",
+      "name": "Neurology",
+      "contact": "1800100700"
+    },
+    {
+      "id": "d108",
+      "name": "Gynecology",
+      "contact": "1800100800"
+    },
+    {
+      "id": "d109",
+      "name": "Oncology",
+      "contact": "1800100900"
+    },
+    {
+      "id": "d110",
+      "name": "Dermatology",
+      "contact": "1800101000"
+    },
+    {
+      "id": "d111",
+      "name": "Psychiatry",
+      "contact": "1800101100"
+    },
+    {
+      "id": "d112",
+      "name": "Gastroenterology",
+      "contact": "1800101200"
+    },
+    {
+      "id": "d113",
+      "name": "Administration",
+      "contact": "1800101300"
+    },
+    {
+      "id": "d114",
+      "name": "others",
+      "contact": "1800101400"
+    }
+  ],
+  "complaintTypes": [
+    {
+      "complaintType": "Rude Staff Behavior",
+      "complaintSeverity": "Medium",
+      "id": "ct101"
+    },
+    {
+      "complaintType": "Delayed Doctor Response",
+      "complaintSeverity": "High",
+      "id": "ct102"
+    },
+    {
+      "complaintType": "Unavailability of Medicines",
+      "complaintSeverity": "High",
+      "id": "ct103"
+    },
+    {
+      "complaintType": "Improper Billing",
+      "complaintSeverity": "Medium",
+      "id": "ct104"
+    },
+    {
+      "complaintType": "Lack of Medical Equipment",
+      "complaintSeverity": "Medium",
+      "id": "ct105"
+    },
+    {
+      "complaintType": "Noisy Environment",
+      "complaintSeverity": "Low",
+      "id": "ct106"
+    },
+    {
+      "complaintType": "Unsanitary Ward Conditions",
+      "complaintSeverity": "Low",
+      "id": "ct107"
+    },
+    {
+      "complaintType": "Unavailability of Doctors",
+      "complaintSeverity": "High",
+      "id": "ct108"
+    },
+    {
+      "complaintType": "Inadequate Security Measures",
+      "complaintSeverity": "Critical",
+      "id": "ct109"
+    },
+    {
+      "complaintType": "Unhygienic Food Preparation",
+      "complaintSeverity": "High",
+      "id": "ct110"
+    },
+    {
+      "complaintType": "Lack of Emergency Equipment",
+      "complaintSeverity": "Critical",
+      "id": "ct111"
+    },
+    {
+      "complaintType": "others",
+      "complaintSeverity": "High",
+      "id": "ct112"
+    }
+  ],
+  "complaints": [
+    {
+      "id": "1",
+      "userId": "1",
+      "deptId": "d102",
+      "ctid": "ct110",
+      "description": "Unsanitary conditions in the emergency ward.",
+      "dateFiled": "2025-04-20T10:43:37.395Z",
+      "status": "Filed"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "deptId": "d102",
+      "ctid": "ct101",
+      "description": "Staff was rude during my visit.",
+      "dateFiled": "2025-04-02",
+      "status": "Resolved"
+    },
+    {
+      "userId": "3",
+      "deptId": "d103",
+      "ctid": "ct102",
+      "description": "Doctor took too long to respond in Emergency",
+      "dateFiled": "2025-04-23T19:48:26.936Z",
+      "status": "In Progress",
+      "id": "3"
+    },
+    {
+      "userId": "4",
+      "deptId": "d104",
+      "ctid": "ct103",
+      "description": "Medicines were not available when needed.",
+      "dateFiled": "2025-04-21T00:41:44.488Z",
+      "status": "Closed",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "deptId": "d105",
+      "ctid": "ct104",
+      "description": "Billing was incorrect and unclear.",
+      "dateFiled": "2025-04-05",
+      "status": "Filed"
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "deptId": "d106",
+      "ctid": "ct105",
+      "description": "Restrooms were not clean.",
+      "dateFiled": "2025-04-06",
+      "status": "Pending"
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "deptId": "d107",
+      "ctid": "ct106",
+      "description": "Medical equipment was unavailable.",
+      "dateFiled": "2025-04-07",
+      "status": "Resolved"
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "deptId": "d108",
+      "ctid": "ct107",
+      "description": "Reception did not respond to my queries.",
+      "dateFiled": "2025-04-08",
+      "status": "Filed"
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "deptId": "d109",
+      "ctid": "ct108",
+      "description": "The environment was too noisy.",
+      "dateFiled": "2025-04-09",
+      "status": "Pending"
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "deptId": "d110",
+      "ctid": "ct109",
+      "description": "Ward conditions were unsanitary.",
+      "dateFiled": "2025-04-10",
+      "status": "Resolved"
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "deptId": "d111",
+      "ctid": "ct110",
+      "description": "Lack of wheelchairs in the hospital.",
+      "dateFiled": "2025-04-11",
+      "status": "Filed"
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "deptId": "d112",
+      "ctid": "ct111",
+      "description": "Inadequate parking space available.",
+      "dateFiled": "2025-04-12",
+      "status": "Pending"
+    },
+    {
+      "id": "13",
+      "userId": "13",
+      "deptId": "d113",
+      "ctid": "ct112",
+      "description": "Doctors were unavailable when needed.",
+      "dateFiled": "2025-04-13",
+      "status": "Resolved"
+    },
+    {
+      "id": "14",
+      "userId": "14",
+      "deptId": "d114",
+      "ctid": "ct113",
+      "description": "Lack of privacy in the wards.",
+      "dateFiled": "2025-04-14",
+      "status": "Filed"
+    },
+    {
+      "id": "15",
+      "userId": "15",
+      "deptId": "d101",
+      "ctid": "ct114",
+      "description": "Inadequate security measures observed.",
+      "dateFiled": "2025-04-15",
+      "status": "Pending"
+    },
+    {
+      "id": "16",
+      "userId": "16",
+      "deptId": "d102",
+      "ctid": "ct115",
+      "description": "Food preparation was unhygienic.",
+      "dateFiled": "2025-04-16",
+      "status": "Resolved"
+    },
+    {
+      "id": "17",
+      "userId": "17",
+      "deptId": "d103",
+      "ctid": "ct116",
+      "description": "Lack of emergency equipment in the hospital.",
+      "dateFiled": "2025-04-17",
+      "status": "Filed"
+    },
+    {
+      "id": "18",
+      "userId": "18",
+      "deptId": "d104",
+      "ctid": "ct117",
+      "description": "Staff was unavailable during emergencies.",
+      "dateFiled": "2025-04-18",
+      "status": "Pending"
+    },
+    {
+      "id": "19",
+      "userId": "19",
+      "deptId": "d105",
+      "ctid": "ct101",
+      "description": "Staff was rude during my visit.",
+      "dateFiled": "2025-04-19",
+      "status": "Resolved"
+    },
+    {
+      "id": "20",
+      "userId": "1",
+      "deptId": "d106",
+      "ctid": "ct102",
+      "description": "Doctor took too long to respond.",
+      "dateFiled": "2025-04-20",
+      "status": "Pending"
+    },
+    {
+      "id": "21",
+      "userId": "2",
+      "deptId": "d107",
+      "ctid": "ct103",
+      "description": "Medicines were not available when needed.",
+      "dateFiled": "2025-04-21",
+      "status": "Resolved"
+    },
+    {
+      "id": "22",
+      "userId": "3",
+      "deptId": "d108",
+      "ctid": "ct104",
+      "description": "Billing was incorrect and unclear.",
+      "dateFiled": "2025-04-22",
+      "status": "Filed"
+    },
+    {
+      "id": "23",
+      "userId": "4",
+      "deptId": "d109",
+      "ctid": "ct105",
+      "description": "Restrooms were not clean.",
+      "dateFiled": "2025-04-23",
+      "status": "Pending"
+    },
+    {
+      "id": "24",
+      "userId": "5",
+      "deptId": "d110",
+      "ctid": "ct106",
+      "description": "Medical equipment was unavailable.",
+      "dateFiled": "2025-04-24",
+      "status": "Resolved"
+    },
+    {
+      "id": "25",
+      "userId": "6",
+      "deptId": "d111",
+      "ctid": "ct107",
+      "description": "Reception did not respond to my queries.",
+      "dateFiled": "2025-04-25",
+      "status": "Filed"
+    },
+    {
+      "id": "26",
+      "userId": "7",
+      "deptId": "d112",
+      "ctid": "ct108",
+      "description": "The environment was too noisy.",
+      "dateFiled": "2025-04-26",
+      "status": "Pending"
+    },
+    {
+      "id": "27",
+      "userId": "8",
+      "deptId": "d113",
+      "ctid": "ct109",
+      "description": "Ward conditions were unsanitary.",
+      "dateFiled": "2025-04-27",
+      "status": "Resolved"
+    },
+    {
+      "id": "28",
+      "userId": "9",
+      "deptId": "d114",
+      "ctid": "ct110",
+      "description": "Lack of wheelchairs in the hospital.",
+      "dateFiled": "2025-04-28",
+      "status": "Filed"
+    },
+    {
+      "id": "29",
+      "userId": "10",
+      "deptId": "d101",
+      "ctid": "ct111",
+      "description": "Inadequate parking space available.",
+      "dateFiled": "2025-04-29",
+      "status": "Pending"
+    },
+    {
+      "id": "30",
+      "userId": "11",
+      "deptId": "d102",
+      "ctid": "ct112",
+      "description": "Doctors were unavailable when needed.",
+      "dateFiled": "2025-04-30",
+      "status": "Resolved"
+    },
+    {
+      "id": "31",
+      "userId": "12",
+      "deptId": "d103",
+      "ctid": "ct113",
+      "description": "Lack of privacy in the wards.",
+      "dateFiled": "2025-05-01",
+      "status": "Filed"
+    },
+    {
+      "id": "32",
+      "userId": "13",
+      "deptId": "d104",
+      "ctid": "ct114",
+      "description": "Inadequate security measures observed.",
+      "dateFiled": "2025-05-02",
+      "status": "Pending"
+    },
+    {
+      "id": "33",
+      "userId": "14",
+      "deptId": "d105",
+      "ctid": "ct115",
+      "description": "Food preparation was unhygienic.",
+      "dateFiled": "2025-05-03",
+      "status": "Resolved"
+    },
+    {
+      "id": "34",
+      "userId": "15",
+      "deptId": "d106",
+      "ctid": "ct116",
+      "description": "Lack of emergency equipment in the hospital.",
+      "dateFiled": "2025-05-04",
+      "status": "Filed"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "users": [
+    {
+      "UserID": 1747186576216,
+      "Email": "devhimanshuu@gmail.com",
+      "Name": "Himanshu Gupta",
+      "Password": "Himanshu@123",
+      "Phone": "9589383089",
+      "UserType": "Admin"
+    },
+    {
+      "UserID": 1747186610578,
+      "Email": "manav.kapoor92@gmail.com",
+      "Name": "Manav Kapoor",
+      "Password": "Manav#123",
+      "Phone": "9321786543",
+      "UserType": "Admin"
+    },
+    {
+      "UserID": 1747186630684,
+      "Email": "ritika.chauhan88@outlook.com",
+      "Name": "Ritika Chauhan",
+      "Password": "Ritika@88",
+      "Phone": "9401123489",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186653517,
+      "Email": "sahil.deshmukh01@gmail.com",
+      "Name": "Sahil Deshmukh",
+      "Password": "Sahil@1pass",
+      "Phone": "9888990011",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186668323,
+      "Email": "tanya.varma7@gmail.com",
+      "Name": "Tanya Varma",
+      "Password": "Tanya@123",
+      "Phone": "9123456702",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186684133,
+      "Email": "nikhil.bansal89@yahoo.com",
+      "Name": "Nikhil Bansal",
+      "Password": "Nikhil!2024",
+      "Phone": "9988771122",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186725604,
+      "Email": "meera.pillai@rediffmail.com",
+      "Name": "Meera Pillai",
+      "Password": "Meera@321",
+      "Phone": "9090901234",
+      "UserType": "Admin"
+    },
+    {
+      "UserID": 1747186749478,
+      "Email": "ayaan.q@gmail.com",
+      "Name": "Ayaan Qureshi",
+      "Password": "Ayaan@q1ur",
+      "Phone": "9877612340",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186767002,
+      "Email": "kavya.joshi55@gmail.com",
+      "Name": "Kavya Joshi",
+      "Password": "Kavya@55",
+      "Phone": "9234567890",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186786986,
+      "Email": "rohan.shetty@live.com",
+      "Name": "Rohan Shetty",
+      "Password": "Rohan!1shetty",
+      "Phone": "9133445566",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186807393,
+      "Email": "divya.sinha99@gmail.com",
+      "Name": "Divya Sinha",
+      "Password": "Divya@s99",
+      "Phone": "9001122345",
+      "UserType": "Admin"
+    },
+    {
+      "UserID": 1747186825494,
+      "Email": "abhinav.r@gmail.com",
+      "Name": "Abhinav Reddy",
+      "Password": "Abhinav@1R#",
+      "Phone": "9091234567",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186840353,
+      "Email": "pooja.mishra08@gmail.com",
+      "Name": "Pooja Mishra",
+      "Password": "Pooja@08",
+      "Phone": "9345617820",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186861402,
+      "Email": "harshit.jain91@yahoo.com",
+      "Name": "Harshit Jain",
+      "Password": "Harshit@91",
+      "Phone": "9223344556",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186881393,
+      "Email": "neelam.t@gmail.com",
+      "Name": "Neelam Thakur",
+      "Password": "Neelam#pass1",
+      "Phone": "9356781230",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186896451,
+      "Email": "sameer.khan@gmail.com",
+      "Name": "Sameer Khan",
+      "Password": "Skhan@2025",
+      "Phone": "9367891245",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186911360,
+      "Email": "ankita.ghosh@mail.com",
+      "Name": "Ankita Ghosh",
+      "Password": "Ankita1@gh",
+      "Phone": "9378905678",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747186929627,
+      "Email": "yuvraj.solanki@gmail.com",
+      "Name": "Yuvraj Solanki",
+      "Password": "Yuvraj#1s",
+      "Phone": "9389012345",
+      "UserType": "User"
+    },
+    {
+      "UserID": 1747187392424,
+      "Email": "aarav.mehta94@gmail.com",
+      "Name": "Aarav Mehta",
+      "Password": "Aarav@123",
+      "Phone": "9876543210",
+      "UserType": "Admin"
+    },
+    {
+      "UserID": 1747187888807,
+      "Email": "isha.rane21@yahoo.com",
+      "Name": "Isha Rane",
+      "Password": "Isha@123",
+      "Phone": "9993999147",
+      "UserType": "User"
+    }
+  ],
+  "departments": [
+    {
+      "DepartmentID": 1747186316891,
+      "Contact": 7300180010,
+      "Name": "Emergency Room"
+    },
+    {
+      "DepartmentID": 1747186368943,
+      "Contact": 7300180011,
+      "Name": "Cardiology"
+    },
+    {
+      "DepartmentID": 1747186384184,
+      "Contact": 7300180012,
+      "Name": "Radiology"
+    },
+    {
+      "DepartmentID": 1747186396576,
+      "Contact": 7300180013,
+      "Name": "Laboratory Services"
+    },
+    {
+      "DepartmentID": 1747186418580,
+      "Contact": 7300180014,
+      "Name": "Pediatrics"
+    },
+    {
+      "DepartmentID": 1747186431362,
+      "Contact": 7300180015,
+      "Name": "Orthopedics"
+    },
+    {
+      "DepartmentID": 1747186443289,
+      "Contact": 7300180016,
+      "Name": "Neurology"
+    },
+    {
+      "DepartmentID": 1747186456385,
+      "Contact": 7300180017,
+      "Name": "Gynecology"
+    },
+    {
+      "DepartmentID": 1747186467906,
+      "Contact": 7300180018,
+      "Name": "Oncology"
+    },
+    {
+      "DepartmentID": 1747186480895,
+      "Contact": 7300180019,
+      "Name": "Dermatology"
+    },
+    {
+      "DepartmentID": 1747186492156,
+      "Contact": 7300180020,
+      "Name": "Psychiatry"
+    },
+    {
+      "DepartmentID": 1747186502987,
+      "Contact": 7300180021,
+      "Name": "Gastroenterology"
+    },
+    {
+      "DepartmentID": 1747186512163,
+      "Contact": 7300180022,
+      "Name": "Administration"
+    },
+    {
+      "DepartmentID": 1747186522398,
+      "Contact": 7300180023,
+      "Name": "others"
+    }
+  ],
+  "complaintTypes": [
+    {
+      "ComplaintTypeID": 1747186994817,
+      "ComplaintSeverity": "Medium",
+      "ComplaintType": "Rude Staff Behavior"
+    },
+    {
+      "ComplaintTypeID": 1747187038033,
+      "ComplaintSeverity": "High",
+      "ComplaintType": "Delayed Doctor Response"
+    },
+    {
+      "ComplaintTypeID": 1747187055537,
+      "ComplaintSeverity": "High",
+      "ComplaintType": "Unavailability of Medicines"
+    },
+    {
+      "ComplaintTypeID": 1747187068543,
+      "ComplaintSeverity": "Medium",
+      "ComplaintType": "Improper Billing"
+    },
+    {
+      "ComplaintTypeID": 1747187082212,
+      "ComplaintSeverity": "Medium",
+      "ComplaintType": "Lack of Medical Equipment"
+    },
+    {
+      "ComplaintTypeID": 1747187096769,
+      "ComplaintSeverity": "Low",
+      "ComplaintType": "Noisy Environment"
+    },
+    {
+      "ComplaintTypeID": 1747187110413,
+      "ComplaintSeverity": "Low",
+      "ComplaintType": "Unsanitary Ward Conditions"
+    },
+    {
+      "ComplaintTypeID": 1747187128391,
+      "ComplaintSeverity": "High",
+      "ComplaintType": "Unavailability of Doctors"
+    },
+    {
+      "ComplaintTypeID": 1747187151437,
+      "ComplaintSeverity": "High",
+      "ComplaintType": "Inadequate Security Measures"
+    },
+    {
+      "ComplaintTypeID": 1747187171538,
+      "ComplaintSeverity": "Low",
+      "ComplaintType": "Unhygienic Food Preparation"
+    },
+    {
+      "ComplaintTypeID": 1747187195951,
+      "ComplaintSeverity": "High",
+      "ComplaintType": "Lack of Emergency Equipment"
+    },
+    {
+      "ComplaintTypeID": 1747187215589,
+      "ComplaintSeverity": "Low",
+      "ComplaintType": "others"
+    }
+  ],
+  "complaints": [
+    {
+      "userId": 1747186576216,
+      "deptId": 1747186316891,
+      "ctid": 1747187110413,
+      "description": "Unsanitary conditions in the emergency ward.",
+      "dateFiled": "2025-04-20T10:43:37.395Z",
+      "status": "Filed"
+    },
+    {
+      "userId": 1747186610578,
+      "deptId": 1747186368943,
+      "ctid": 1747187038033,
+      "description": "Delayed response from the cardiology department.",
+      "dateFiled": "2025-04-21T11:00:00.000Z",
+      "status": "Resolved"
+    },
+    {
+      "userId": 1747186630684,
+      "deptId": 1747186384184,
+      "ctid": 1747187068543,
+      "description": "Unavailability of medicines in the radiology department.",
+      "dateFiled": "2025-04-22T12:15:00.000Z",
+      "status": "Pending"
+    },
+    {
+      "userId": 1747186653517,
+      "deptId": 1747186396576,
+      "ctid": 1747187082212,
+      "description": "Improper billing for laboratory services.",
+      "dateFiled": "2025-04-23T13:30:00.000Z",
+      "status": "Filed"
+    },
+    {
+      "userId": 1747186684133,
+      "deptId": 1747186418580,
+      "ctid": 1747187096769,
+      "description": "Lack of medical equipment in pediatrics.",
+      "dateFiled": "2025-04-24T14:45:00.000Z",
+      "status": "Resolved"
+    },
+    {
+      "userId": 1747186725604,
+      "deptId": 1747186431362,
+      "ctid": 1747187110413,
+      "description": "Rude staff behavior in orthopedics.",
+      "dateFiled": "2025-04-25T15:00:00.000Z",
+      "status": "Pending"
+    },
+    {
+      "userId": 1747186749478,
+      "deptId": 1747186443289,
+      "ctid": 1747187151437,
+      "description": "Inadequate security measures in neurology.",
+      "dateFiled": "2025-04-26T16:15:00.000Z",
+      "status": "Filed"
+    },
+    {
+      "userId": 1747186767002,
+      "deptId": 1747186456385,
+      "ctid": 1747187171538,
+      "description": "Noisy environment in gynecology.",
+      "dateFiled": "2025-04-27T17:30:00.000Z",
+      "status": "Resolved"
+    },
+    {
+      "userId": 1747186786986,
+      "deptId": 1747186467906,
+      "ctid": 1747187195951,
+      "description": "Unhygienic food preparation in oncology.",
+      "dateFiled": "2025-04-28T18:45:00.000Z",
+      "status": "Pending"
+    },
+    {
+      "userId": 1747186807393,
+      "deptId": 1747186480895,
+      "ctid": 1747187215589,
+      "description": "Lack of emergency equipment in dermatology.",
+      "dateFiled": "2025-04-29T19:00:00.000Z",
+      "status": "Filed"
+    },
+    {
+      "userId": 1747186825494,
+      "deptId": 1747186492156,
+      "ctid": 1747187038033,
+      "description": "Unavailability of doctors in psychiatry.",
+      "dateFiled": "2025-04-30T20:15:00.000Z",
+      "status": "Resolved"
+    },
+    {
+      "userId": 1747186840353,
+      "deptId": 1747186502987,
+      "ctid": 1747187068543,
+      "description": "Lack of medical equipment in gastroenterology.",
+      "dateFiled": "2025-05-01T21:30:00.000Z",
+      "status": "Pending"
+    },
+    {
+      "userId": 1747186861402,
+      "deptId": 1747186512163,
+      "ctid": 1747187082212,
+      "description": "Improper billing for administration services.",
+      "dateFiled": "2025-05-02T22:45:00.000Z",
+      "status": "Filed"
+    },
+    {
+      "userId": 1747186881393,
+      "deptId": 1747186522398,
+      "ctid": 1747187096769,
+      "description": "Rude staff behavior in others department.",
+      "dateFiled": "2025-05-03T23:00:00.000Z",
+      "status": "Resolved"
+    },
+    {
+      "userId": 1747186896451,
+      "deptId": 1747186316891,
+      "ctid": 1747187110413,
+      "description": "Unsanitary conditions in the emergency ward.",
+      "dateFiled": "2025-05-04T10:43:37.395Z",
+      "status": "Filed"
+    },
+    {
+      "userId": 1747186911360,
+      "deptId": 1747186368943,
+      "ctid": 1747187038033,
+      "description": "Delayed response from the cardiology department.",
+      "dateFiled": "2025-05-05T11:00:00.000Z",
+      "status": "Resolved"
+    },
+    {
+      "userId": 1747186929627,
+      "deptId": 1747186384184,
+      "ctid": 1747187068543,
+      "description": "Unavailability of medicines in the radiology department.",
+      "dateFiled": "2025-05-06T12:15:00.000Z",
+      "status": "Pending"
+    },
+    {
+      "userId": 1747187392424,
+      "deptId": 1747186396576,
+      "ctid": 1747187082212,
+      "description": "Improper billing for laboratory services.",
+      "dateFiled": "2025-05-07T13:30:00.000Z",
+      "status": "Filed"
+    },
+    {
+      "userId": 1747187888807,
+      "deptId": 1747186418580,
+      "ctid": 1747187096769,
+      "description": "Lack of medical equipment in pediatrics.",
+      "dateFiled": "2025-05-08T14:45:00.000Z",
+      "status": "Resolved"
+    }
+  ]
+}
