@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5501,
+    "window.autoDetectColorScheme": false,
+    "window.closeWhenEmpty": false,
+    "accessibility.signalOptions.debouncePositionChanges": false,
+    "application.experimental.rendererProfiling": false
+}
